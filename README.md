@@ -26,6 +26,9 @@ Three possible invocations of the program are:
 * "program-name" --show-random "input-filename"
      
 
+For detailed description of the output, please go to the *expectedOutputs* folder and read the README.md file there.
+
+
 ***
 Inside of the "src" folder, Scheduling.java file is located.
 To execute the program using the contents of a text file, please type the name of the java file (Scheduling), the name of any flag (-verbose or -show-random), if any, and the name of the input file. 
