@@ -26,7 +26,7 @@ Three possible invocations of the program are:
 * "program-name" --show-random "input-filename"
      
 
-For detailed description of the output, please go to the *expectedOutputs* folder and read the README.md file there.
+For a detailed description of the output, please go to the *expectedOutputs* folder and read the README.md file there.
 
 
 ***
