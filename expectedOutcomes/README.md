@@ -34,7 +34,7 @@ There are 7 inputs: input-1 to input-7.\
 Each of these inputs will have four different outputs for each of the algorithms.\
 There are 3 ways to display an output:
 * Regular version that displays the following:
-  * The original list
+  * The original list.
   * The sorted list by the arrival time.
   * The name of the algorithm used.
   * Each process information.
