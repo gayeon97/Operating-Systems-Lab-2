@@ -5,11 +5,12 @@ Scheduling
 
 For this Java program, we are simulating scheduling to see how time requried for process is allocated, depending on the scheduling algorithm and the request patterns. 
 
+
+
 Here, a process is characterized by just four non-negative integers: A, B, C and M.
 A is the arrival time of the process. B is used for calculating the CPU Burst time for a process, using the randomOS(B) function. C is the total CPU time needed by the process. M is used for calculating the IO Burst time for a process.
 
 Using these four information about the process, we are trying to replicate how an operating system would schedule multiple processes to run in real life.
-
 
 
 
@@ -23,14 +24,8 @@ Three possible invocations of the program are:
 <program-name> <input-filename>
 <program-name> --verbose <input-filename>
 <program-name> --show-random <input-filename>
-
-
-
-
-To run on crackle1 on cims.nyu.edu server, please first go to crackle1, where the folder "Lab2" is uploaded. Once you are at crackle1, please navigate to the Scheduling.java file like the following:
-     Change directory to Lab2, then change directory to src.
-     or like: cd Lab2/src
-
+     
+     
 Inside of the "src" folder, Scheduling.java file is located.
 To execute the program using the contents of a text file, please type the name of the java file (Scheduling), the name of any flag (-verbose or -show-random), if any, and the name of the input file. 
 
