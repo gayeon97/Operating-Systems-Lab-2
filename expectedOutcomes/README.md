@@ -2,7 +2,7 @@ The Scheduling.java program reads its input from a file, whose name is given as 
 
 The file describes n processes (i.e., n quadruples of numbers) and then simulate the n processes until they all terminate. Here, we do this by keeping track of the state of each process (e.g., ready, running, blocked) and advance time, making any state transitions needed.
 
-At the end of the run, we first print an identification of the run including the scheduling algorithm used, any parameters (e.g. the quantum for RR), and the number of processes simulated.
+At the end of the run, we first print an identification of the run including the scheduling algorithm used, any parameters (e.g. the quantum for RR), and the number of processes simulated.\
 You then print for each process
 * A, B, C, and M
 * Finishing time.
