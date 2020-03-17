@@ -22,8 +22,8 @@ The program also accepts an optional "-show-random" flag. If present, it precede
 
 Three possible invocations of the program are:
 * "program-name" "input-filename"
-* <program-name> --verbose <input-filename>
-* <program-name> --show-random <input-filename>
+* "program-name" --verbose "input-filename"
+* "program-name" --show-random "input-filename"
      
 
 ***
