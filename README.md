@@ -47,9 +47,11 @@ To execute the code, type following:
 java Scheduling input-number                    //for a regular output
 
 or 
+
 java Scheduling --verbose input-number          //for a detailed output
 
 or
+
 java Scheduling --show-random input-number      //for a even more detailed output
 
 
@@ -70,9 +72,11 @@ To execute the code, type following:
 java Scheduling input-7                     //for a regular output
 
 or
+
 java Scheduling --verbose input-7           //for a detailed output
 
 or
+
 java Scheduling --show-random input-7       //for a even more detailed output
 
 
