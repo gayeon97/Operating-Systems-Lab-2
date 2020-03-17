@@ -1,4 +1,4 @@
-The outputs differ depending on the type of the algorithm used.\
+The outputs differ depending on the type of the algorithm used.
 
 There are 4 algorithms used:
 * First Come First Serve (FCFS)
