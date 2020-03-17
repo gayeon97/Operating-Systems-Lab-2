@@ -37,7 +37,7 @@ Type the below instruction into the Terminal to compile the Scheduling.java prog
 When compiling, you have to make sure that you are compiling both the Scheduling.java file and the Process.java file because Scheduling.java uses an instance of Process class.
 
 ONE IMPORTANT THING TO NOTE: the input files you are testing the Scheduling.java file against MUST be in the same folder as the Scheduling.java file
-So Scheduling.java file, Process.java file, and whatever input file you want to test HAVE to be in the same folder (namely, src folder inside of the Lab2 folder).
+So Scheduling.java file, Process.java file, and whatever input file you want to test HAVE to be in the same folder (namely, src folder).
 
 ### Compiling
 ```
