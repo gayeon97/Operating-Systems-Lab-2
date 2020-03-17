@@ -21,9 +21,9 @@ The program accepts an optional "-verbose" flag. If present, it precedes the fil
 The program also accepts an optional "-show-random" flag. If present, it precedes the file name. When "-show-random" is given, the program produce detailed output along with the random number chosen each time. This is a more verbose version.
 
 Three possible invocations of the program are:
-<program-name> <input-filename>
-<program-name> --verbose <input-filename>
-<program-name> --show-random <input-filename>
+* <program-name> <input-filename>
+* <program-name> --verbose <input-filename>
+* <program-name> --show-random <input-filename>
      
 
 ***
