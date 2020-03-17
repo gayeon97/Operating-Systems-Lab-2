@@ -6,6 +6,8 @@ There are 4 algorithms used:
 * Last Come First Serve (LCFS)
 * Highest Penalty Ratio Next (HPRN)
 
+
+
 There are 7 inputs: input-1 to input-7.\
 Each of these inputs will have four different outputs for each of the algorithms.\
 There are 3 ways to display an output:
